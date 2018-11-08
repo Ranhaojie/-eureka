@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title></title>
+	<link rel="stylesheet" type="text/css" href="css/oh.css">
+	<link rel="icon" type="image-xicon" href="https://www.qunar.com/favicon.ico">
+</head>
+<body>
+	<div class="parent">
+	    <div class="child">
+	    	<img src="images/icon.png"color: #0B696F >
+	    </div>
+	    <div id="a">
+	    	<input type="text" name="name" 
+	    	style="width: 350px;height: 25px;border-top-left-radius: 5px;
+	    	border-bottom-left-radius:5px;border-color: #82CDBB; "placeholder="搜索目的地 / 酒店 / 景点门票"></div>
+	    	<span style="color: gray"></span>	
+	    <div class="box3">
+	        <img src="images/place.png">  重庆</div>	
+	        <div class="box4">请 
+	        	<span style="color: orange;"> 注册</span> 或
+	        	<span style="color: orange;"> 登录</span>
+	        <div class="b"><img src="images/vertical.png"style="height: 15px;"></div>
+	            <span style="color: gray;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我的订单</span>
+	        <div class="c"><img src="images/vertical.png"style="height: 15px;"></div>
+	            <span style="color: gray；">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;我的收藏</span>
+	        <div class="d"><img src="images/vertical.png"style="height: 15px;"></div>
+	            <span style="color: gray;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;APP下载</span>
+	        <div id="r">
+	        	<span style="color: gray;">客服中心</span>
+	        	<div class="e"><img src="images/vertical.png"style="height: 15px;"></div>
+	        	<span style="color: gray;">&nbsp;&nbsp;&nbsp;&nbsp;官方论坛</span>
+	        	<div class="f"><img src="images/vertical.png"style="height: 15px;"></div>
+	        	<span style="color: gray;">&nbsp;&nbsp;&nbsp;&nbsp;language</span>
+	        	
+	        </div>         
+
+	</div> 
+	<div class="box1">
+		<div class="box2"><img src="images/search.png"></div>
+	</div> 
+	<div class="parent1">
+		<div class="child1">首&nbsp;&nbsp;页</div>
+		<div class="child2">机&nbsp;&nbsp;票&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;旅&nbsp;&nbsp;游&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;酒&nbsp;&nbsp;店&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;攻&nbsp;&nbsp;略&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;火&nbsp;&nbsp;车&nbsp;&nbsp;票</div>
+	</div> 
+	<div id="s">
+	    <img src="images/banner.png">
+	</div>
+	<div class="box5">
+		<div class="box6" style="color: #106F7E;
+		font-size: 18px;display: inline-block;" ><img src="images/hotel.png"> 住 宿</div>
+	    <div class="box7">	
+	        <div class="box8" style="display: inline-block;font-size: 18px;"><img src="images/plane.png"> 机 票</div>
+	    </div>
+	    <div class="box9">
+	    	<div class="box10" style="display: inline-block;font-size: 18px;"><img src="images/travel.png"> 旅 游</div>
+	    </div>
+	    <div class="box11">
+	    	<div class="box12" style="display: inline-block;font-size: 18px;"><img src="images/ticket.png"> 门 票</div>
+	    </div>
+	    <div style="background-color: #84CCC9;width: 100px;height: 180px;display: inline-block;margin-top: 2px;"></div>
+	</div>
+	<div class="box13">
+		<div style="color: #0B696F;margin-left: 20px;margin-top: 10px;">国内酒店  &nbsp;国内酒店  &nbsp;特色民宿</div>
+		<div style="margin-left: 18px;"><img src="images/transeverse.png" style="width: 290px;height: 2px;background-color:#0B696F; "></div>
+		<div style="color: gray;margin-left: 15px;margin-top: 1px;font-size: 13px;">入住城市：</div>
+		<div style="margin-left: 15px;margin-top: 1px;"><input type="text" name="name" style="width: 290px;height: 20px; border-radius: 5px;" placeholder="重庆"></div>
+		<div style=" color: gray;margin-left: 15px;margin-top: 15px;font-size: 13px;"> 入住时间：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;离开时间：</div>
+		<div style="margin-left: 15px;margin-top: 1px;"><input type="text" name="name" style="width: 100px;height: 20px;border-radius: 5px;" placeholder="2018-4-4">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="name" style="width: 120px;height: 20px;border-radius: 5px;" placeholder="2018-4-6"></div>
+		<div style=" color: gray;margin-left: 15px;margin-top: 15px; float:left; font-size: 13px;"> 房间：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;住客：</div>
+		<div style="margin-left: 15px;margin-top: 35px;"><input type="text" name="name" style="width: 100px;height: 20px;border-radius: 5px;" placeholder="1">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="name" style="width: 120px;height: 20px;border-radius: 5px;" placeholder=" 2"></div>
+		<div style="color: gray; margin-left: 15px;margin-top: 17px;font-size: 13px;"> 酒店级别：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;关键词：</div>
+		<div style="margin-left: 15px;margin-top: 1px;"><input type="text" name="name" style="width: 100px;height: 20px;border-radius: 5px;" placeholder="不限">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" name="name" style="width: 120px;height: 20px;border-radius: 5px;" placeholder="酒店名/商业圈/地标"></div>
+		<div class="box14">搜 索</div>
+	</div>
+	<div style="background-color: #0F6F5C;width: 1440px;height: 120px;margin-top: -4px;">
+		<div style="float: left;margin-left: 650px;font-size: 13px;color: white;margin-top: 20px;">去哪客服中心位于重庆市&nbsp;&nbsp;来电显示为</div>
+		<div style="float: left;margin-left: 400px;font-size: 13px;color: white;">025-86859999 、 025-86259999 、 025-85029999 、 025-69609987 、 025-69609986 、 025-57629999 或 025-52339999</div>
+		<div style="float: left;margin-left: 650px;font-size: 13px;color: white;">北京去哪儿旅游国际旅行社有限公司，</div>
+		<div style="float: left;margin-left: 625px;font-size: 13px;color: white;">旅行社业务经营许可证编号：L-BJ-CJ00144</div>
+		<div style="float: left;margin-left: 540px;font-size: 13px;color: white;">重庆去哪儿国际旅行社有限公司，旅行社业务经营许可证编号：L-SH-CJ00107</div>
+	</div><!-- 
+	<div style="float: left;"></div> -->
+<!-- <div id="one">
+	<div id="one1"></div>
+	<div id="one2"></div>
+	<div id="one3"></div> -->
+</div> 
+</body>
+</html>
+
